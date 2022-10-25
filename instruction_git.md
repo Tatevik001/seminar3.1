@@ -28,6 +28,8 @@ git status
 
         git branch <branch-name>
 
+### Удаление новой ветки 
+
         
 
     
